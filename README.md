@@ -1,4 +1,4 @@
-# Mongo_Climate
+# Blockchain Powered Web-Application, LifeSTACK:
 
 ### Goal: 
 Create a web application that queries a MongoDB Atlas database to find local air pollution data... all powered with blockchain technology!
