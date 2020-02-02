@@ -21,4 +21,7 @@ Our team worked together over the 36 hour Hoya Hacks Hackathon to create an appl
 ### How To Run
 
 If you are interested in testing out our application, great! 
-Simply clone the repository with "git clone "
+Simply clone the repository with "git clone git@github.com:RonanChance/LifeStack.git"
+Navigate to the directory inside the folder named "Blockstack"
+In your terminal run "npm run start"
+This should open a webpage/server in your default browser. Enjoy!
