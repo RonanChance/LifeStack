@@ -17,3 +17,8 @@ Our team worked together over the 36 hour Hoya Hacks Hackathon to create an appl
 - Javascript
 - Python3
 - HTML / CSS
+
+### How To Run
+
+If you are interested in testing out our application, great! 
+Simply clone the repository with "git clone "
