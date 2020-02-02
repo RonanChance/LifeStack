@@ -1,7 +1,7 @@
 # Blockchain Powered Web-Application, LifeSTACK:
 
 ### Goal: 
-Create a web application that queries a MongoDB Atlas database to find local air pollution data... all powered with blockchain technology!
+Create a WebApplication that allows users to have a comfortable and safe homepage for their browser. LifeStack gives users the chance to store notes, read inspirational quotes, and find health recommendations specific to them. All this, with the comfort of data privacy granted by the magic of a decentralized blockstack identity!
 
 ### Result:
 Users will find out the recommended healthy living habits for their area, learn how they can improve their community, and be given the contact information of local officials. 
